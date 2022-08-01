@@ -2,7 +2,7 @@
 -------------------------------------------------------------------------------------------
    News Application URL :------->   https://sumansaurav143.github.io/News-Application/
 -------------------------------------------------------------------------------------------
-# -----------------------------  Simple and Clean UI ---------------------------- #
+# -------------------------  Simple and Clean UI --------------------------- #
 IN THIS NEWS APPLICATION I HAVE USED NEWS API TO FETCH DATA OF TOP NEWS HEADLINES.
 
 IN THIS APPLICATION I HAVE USE TO FILTER THE DATA COUNTRY/CATEGORY WISE.
