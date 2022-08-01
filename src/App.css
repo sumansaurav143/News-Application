@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+  }
+
+.heading{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-top: 10px;
+}  
+
+.container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: center;
+}
+
+.Search-Input{
+    display: grid;
+    grid-template-columns: auto auto;
+    margin-right: 5px;
+}
+
+.card{
+    height: 22rem;
+    width: 17rem;
+    margin: 40px;
+    margin-bottom: 10px;
+}
+
+.btn{
+   margin-left: 10px;
+}
